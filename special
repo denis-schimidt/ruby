@@ -1,0 +1,7 @@
+Run options: include {:fast=>true, :type==>true}
+This test is fast!
+.
+
+Finished in 0.00034 seconds (files took 0.06633 seconds to load)
+1 example, 0 failures
+
